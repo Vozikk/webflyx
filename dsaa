@@ -1,0 +1,42 @@
+[33mcommit aaaa24b7471efe51f7d3b94920fd3513e02cb349[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mupdate_titles[m[33m)[m
+Author: Vozikk <daniel.honzik1@gmail.com>
+Date:   Mon Jan 6 11:06:43 2025 +0100
+
+    G:
+
+[33mcommit 7773274be8e3ef2ad4dc77c887e9083acf06093a[m
+Merge: 5a3e74a 4f9d27f
+Author: Vozikk <daniel.honzik1@gmail.com>
+Date:   Mon Jan 6 11:01:37 2025 +0100
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 5a3e74aae9f2a72a6ca7444bab4d8d38f4d4f53b[m
+Author: Vozikk <daniel.honzik1@gmail.com>
+Date:   Mon Jan 6 11:00:11 2025 +0100
+
+    E: Hellooo
+
+[33mcommit 4f9d27fea0757a7d37208addcceaf95756cff2be[m
+Author: Vozikk <daniel.honzik1@gmail.com>
+Date:   Mon Jan 6 10:55:58 2025 +0100
+
+    D: Hello Classics
+
+[33mcommit f872cca52f574cbab10ccaf94e65ce4f998dadd2[m
+Author: Vozikk <daniel.honzik1@gmail.com>
+Date:   Mon Jan 6 10:29:13 2025 +0100
+
+    C: Hello 2
+
+[33mcommit d208df31e44cee831b0024c509bb5fafa6a2c4ca[m
+Author: Vozikk <daniel.honzik1@gmail.com>
+Date:   Mon Jan 6 10:25:14 2025 +0100
+
+    B: Hello
+
+[33mcommit b50c3691b92e59d27e06721b7cb7fc1f3d0cfe00[m
+Author: Vozikk <daniel.honzik1@gmail.com>
+Date:   Mon Jan 6 10:06:33 2025 +0100
+
+    A: add contents.md
